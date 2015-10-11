@@ -1,0 +1,1 @@
+Mugr provides face identification and recognition services over a RESTful interface.  jmugr is an API, for those services, written in Java 5
